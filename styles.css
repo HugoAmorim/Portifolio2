@@ -3,7 +3,7 @@ body {
     font-family: 'Poppins', sans-serif; /* Mudando para uma fonte mais moderna */
     line-height: 1.6; /* Aumenta o espaçamento entre as linhas */
     color: white;
-    background: url('anime-avatar.webp') no-repeat center center fixed;
+    background: url('imagens/anime-avatar.webp') no-repeat center center fixed;
     background-size: cover;
     background-attachment: fixed;
     
@@ -86,7 +86,7 @@ ul li a:hover {
 
 /* Rodapé */
 footer {
-    background: url('rodape.jpg') no-repeat center center;
+    background: url('imagens/rodape.jpg') no-repeat center center;
     background-size: cover;
     background-attachment: fixed;
     height: 300px;
